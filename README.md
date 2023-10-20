@@ -6,19 +6,27 @@
 There are 2 Subnet IPs
 The Subnet Mask is 255.255.255.128
 
-  1st Subnet
+ * 1st Subnet 
+
 Subnet Mask = 255.255.255.128
+
 Network ID = 192.168.40.0
+
 Range Of Valid Hosts = 192.168.40.0 - 192.168.40.126
+
 BroadCast ID = 192.168.40.127
 
-  2nd Subnet
+ * 2nd Subnet 
+
 Subnet Mask = 255.255.255.128
+
 Network ID = 192.168.40.128
+
 Range Of Valid Hosts = 192.168.40.129 - 192.168.40.254
+
 BroadCast ID = 192.168.40.255
 
-Proof that machines are up and running
+ - Proof that machines are up and running
 
 PC0 Pinging PC2
 
